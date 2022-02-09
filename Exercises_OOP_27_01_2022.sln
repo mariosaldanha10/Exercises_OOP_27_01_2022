@@ -5,12 +5,6 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercises_OOP_27_01_2022", "Exercises_OOP_27_01_2022.csproj", "{6F848CA4-BFF7-40ED-8C9F-3065C3E0DAE1}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{546619B2-FB61-434B-9CC1-257E3913E1EB}"
-	ProjectSection(SolutionItems) = preProject
-		Exercise01.cs = Exercise01.cs
-		Exercise2.cs = Exercise2.cs
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
