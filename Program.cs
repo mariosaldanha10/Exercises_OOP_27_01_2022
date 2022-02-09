@@ -9,6 +9,11 @@ namespace Exercises_OOP_27_01_2022
             Question01 question01 = new();
             question01.simpleCalculator();
 
+            Question02 question02 = new();
+            question02.CarpetingCost();
+
+
+
         }
     }
 }

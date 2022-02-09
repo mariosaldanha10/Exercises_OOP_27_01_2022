@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{546619B2-FB61-434B-9CC1-257E3913E1EB}"
 	ProjectSection(SolutionItems) = preProject
 		Exercise01.cs = Exercise01.cs
+		Exercise2.cs = Exercise2.cs
 	EndProjectSection
 EndProject
 Global
